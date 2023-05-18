@@ -25,9 +25,7 @@ If you are having trouble running the code, please check the following:
 * Make sure that the `details.csv` file is in the same directory as the `YouTubeBot.py` file.
 * Make sure that the email IDs and passwords in the `details.csv` file are correct.
 
-## License
 
-This code is licensed under the MIT License.
 
 ## Author
 
